@@ -2,7 +2,7 @@
 
 1) criar pasta
 2) abrir pasta no VSCode
-3) no terminal digitar npm create vite@lateste
+3) no terminal digitar npm create vite@latest .
 4) escolher o react como framework
 5) escolher a variant Javascript
 6) digitar no terminal npm install
