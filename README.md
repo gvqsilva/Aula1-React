@@ -8,11 +8,14 @@
 6) digitar no terminal npm install
 7) dps digitar npm run dev
 8) limpar o projeto:
-   -apagar a img das pastas public e da src/assests
-   -apagar o arquivo App.css da pasta src
-   -apagar o arquivo Index.css
-   -entar no arquivo main.jsx e apagar a linha 4 (import 'index.css')
-   -entrar no arquivo App.jsx e apagar tudo acima de function App e apagar a linha que const [count, setcount]=useState(0); depois apagar TUDO que estiver dentro dos fragments <> </>
+<ul>
+   <li>-apagar a img das pastas public e da src/assests</li>
+   <li>-apagar o arquivo App.css da pasta src</li>
+   <li>-apagar o arquivo Index.css</li>
+   <li>-entar no arquivo main.jsx e apagar a linha 4 (import 'index.css')</li>
+   <li>-entrar no arquivo App.jsx e apagar tudo acima de function App e apagar a linha que const [count, setcount]=useState(0); depois apagar TUDO que estiver dentro dos fragments <> </>
+</li>
+</ul>
 
 PASCAL CASE = Primeira letra maiuscula
 CAMEL CASE = Segunda letra maiuscula
